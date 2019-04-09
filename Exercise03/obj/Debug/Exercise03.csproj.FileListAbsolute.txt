@@ -1,0 +1,7 @@
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise03\Exercise03\obj\Debug\Exercise03.pdb
